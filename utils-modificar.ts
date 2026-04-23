@@ -53,7 +53,7 @@ export const fileExists = (filePath: string): boolean =>
 // Esperado : 100 - 4 = 96 pts  (2 violaciones × -2 pts)
 // =============================================================================
 /* eslint-disable capitalized-comments */
- export const processAny = (inputValue: any): any => inputValue;
+// export const processAny = (inputValue: any): any => inputValue;
 /* eslint-enable capitalized-comments */
 
 // =============================================================================
